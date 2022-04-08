@@ -1,0 +1,17 @@
+p.odd {
+    background-color: #f06359;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+.fsize {
+    font-size: 24px;
+}
+#numtwo {
+    color: #0045bd;
+    font-size: 36px;
+}
+#numfour {
+    background-color: #3ee6a5;
+    font-size: 24px;
+    font-weight: bold;
+}
+
